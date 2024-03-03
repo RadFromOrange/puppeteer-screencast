@@ -134,6 +134,10 @@ Launch novnc
 
 
 
+ pyinstaller --onefile --add-data "bundled_deps:bundled_deps"   /workspaces/puppeteer-screencast/yourscript.py
+
+
+
 
 
 
